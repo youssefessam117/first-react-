@@ -1,0 +1,15 @@
+.mainFooter{
+    background-color: #2c3e50;
+}
+.secFooter{
+    background-color: #1a252f;
+}
+.iconCircle{
+    width: 50px;
+    height: 50px;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 5px;
+}
